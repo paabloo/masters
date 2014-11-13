@@ -8,7 +8,7 @@ body {
     font-family: $font_normal;
     font-size: 12px;
     line-height: 1.4;
-    color: $color_default;
+    color: $color_hujowy;
 }
 
 /* Global Typography
@@ -17,13 +17,13 @@ body {
 a {
     text-decoration: none;
     color: $color_default;
-    
+
     &:hover {
         color: $color_green;
         text-decoration: none;
     }
 }
-p { 
+p {
     margin: 20px 0 20px 0;
 
     &:first-child {
